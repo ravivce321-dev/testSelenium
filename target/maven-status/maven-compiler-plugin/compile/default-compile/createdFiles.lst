@@ -1,0 +1,4 @@
+com\framework\pages\LoginPage.class
+com\framework\base\BaseTest.class
+com\framework\driver\DriverManager.class
+com\framework\utils\ConfigReader.class
